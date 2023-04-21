@@ -1,0 +1,1 @@
+# scalyr-logarchive-bridges
